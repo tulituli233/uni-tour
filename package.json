@@ -1,0 +1,18 @@
+{
+  "name": "uni-tour",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+  	"test": ""
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "",
+  "dependencies": {
+  	"jweixin-module": "^1.6.0",
+  	"uni-read-pages": "^1.0.5",
+  	"uni-simple-router": "^2.0.6",
+  	"vconsole": "^3.7.0"
+  }
+}
